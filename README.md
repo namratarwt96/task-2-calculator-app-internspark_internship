@@ -2,8 +2,8 @@
 # TASK 2: MAKE A APP USING JS AND DOM MANIPULATION .
 
 # GOAL: Build  a calculator app which performs operations on user interaction.
-# PROJECT SELECTED
-CALCULATOR APP:
+.
+# CALCULATOR APP:
 a simple calculator which perform basic arithematic operations.
 
 # FEATURES :
@@ -13,5 +13,4 @@ a simple calculator which perform basic arithematic operations.
 4. Division
 5. Clear functionality
 6. Interactive buttons
-7. Dynamic Display updates using JAVASCRIPT DOM manipulation
-8. Responsive design
+7. Responsive design
