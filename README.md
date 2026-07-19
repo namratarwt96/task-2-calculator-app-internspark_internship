@@ -36,6 +36,8 @@ https://namratarwt96.github.io/task-2-calculator-app-internspark_internship/
 
 # Document Task 2 Link(Drive):
 
+https://docs.google.com/document/d/1SPiv26td4QsBcJe-8HGgOKdc1-mnjM6wad2dtXlXVJY/edit?usp=drivesdk
+
 
 
 
