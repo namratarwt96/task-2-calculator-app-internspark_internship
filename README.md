@@ -26,3 +26,5 @@ a simple calculator which perform basic arithematic operations.
 3. Responsive Layout.
 4.  A Functional Calculator  is prepared. 
 
+ # Repo Link Github 
+https://github.com/namratarwt96/task-2-calculator-app-internspark_internship
