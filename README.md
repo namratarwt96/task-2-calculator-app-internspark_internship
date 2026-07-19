@@ -17,3 +17,12 @@ a simple calculator which perform basic arithematic operations.
 4. Division
 5. Clear button &  Equal to with  +,-,×,/ buttons for operations  with number buttons.
 6. Responsive design
+
+
+# What I learnt:
+
+1.  Box/Grid structure.
+2. Interactivity using JAVASCRIPT Dom manipulation. 
+3. Responsive Layout.
+4.  A Functional Calculator  is prepared. 
+
